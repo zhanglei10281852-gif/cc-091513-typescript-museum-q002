@@ -1,0 +1,5 @@
+{
+  "permit_states": ["draft", "active", "suspended", "expired", "revoked"],
+  "collection_events": ["observed", "collected", "released", "transferred", "received"],
+  "custody_types": ["field_team", "partner_institution", "carrier", "museum"]
+}
