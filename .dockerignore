@@ -4,5 +4,4 @@ dist
 .runtime
 .env
 .env.*
-tests
 *.log
